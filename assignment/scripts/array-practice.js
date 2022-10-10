@@ -51,7 +51,7 @@ console.log('Added an animal to end,', animalArray);
 
 // 4.a. TODO: Add a new food at the end of your array & log the array
 favoriteFoods.push('peanut butter');
-console.log('Added a new favorite food to end,' , favoriteFoods);
+console.log('Added a new favorite food to end,', favoriteFoods);
 
 
 // Example: Remove the last animal by using Array.pop
